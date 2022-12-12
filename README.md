@@ -22,7 +22,7 @@ And for the artists, watermarks are customizable and can be used for your own ma
 
 VIW is the sole service provider of this kind of security technology on the current market. With our security technology that is offering a unique cross-certification process combining both brand certification and artist verification, VIW is taking a big leap towards a safer future for digital art. Watermarks will allow customers to mitigate risks and once again safely browse popular NFT marketplaces. After multiple hacking scandals, including the infamous OpenSea Hacking Scandals of January and February 2022, VIW Technology will bring back customer trust and create the foundation for future industry growth and customer safety.
 
-ETHEREUM MAINNET WATERMARK FACTORY 
+ETHEREUM MAINNET WATERMARK FACTORY<br>
 Contract address : 0xf1b4E8722089D581EAEaAfAd7E40573cEeF27c3b
 
 
